@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+android:id="@+id/activity_event"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+tools:context="com.example.avaloncs.firebase.EventActivity">
+<TextView
+    android:id="@+id/text_user"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="16dp"
+    android:layout_marginLeft="16dp"
+    android:layout_marginRight="16dp"
+
+    android:textSize="18sp"
+    android:layout_marginBottom="20dp"
+    android:layout_alignParentTop="true"
+    android:background="@color/colorPrimary"
+    />
+
+<!-- add botton navigation view to the app-->
+<android.support.design.widget.BottomNavigationView
+    android:id="@+id/navigation"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom="true"
+    app:itemIconTint="@android:color/darker_gray"
+    app:itemTextColor="@android:color/darker_gray"
+    app:menu="@menu/event_navigation_items" />
+
+    <FrameLayout
+        android:id="@+id/fragment_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/text_user"
+        android:layout_above="@+id/navigation"
+        >
+    </FrameLayout>
+
+</RelativeLayout>
