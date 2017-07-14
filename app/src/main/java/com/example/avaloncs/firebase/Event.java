@@ -13,6 +13,27 @@ public class Event {
     private long time;
     private String username;
     private String description;
+    private int repost;
+    private String title;
+    public int getRepost() {
+        return repost;
+    }
+
+    public void setRepost(int repost) {
+        this.repost = repost;
+    }
+
+    public void setTitle(String title) {
+        this.title = title;
+    }
+    private String imgUri;
+    public String getImgUri() {
+        return imgUri;
+    }
+
+    public void setImgUri(String imgUri) {
+        this.imgUri = imgUri;
+    }
 
 
     public String getId() {
@@ -77,6 +98,10 @@ public class Event {
 
     public void setCommendNumber(int commendNumber) {
         this.commendNumber = commendNumber;
+    }
+
+    public String getTitle() {
+        return title;
     }
 }
 
