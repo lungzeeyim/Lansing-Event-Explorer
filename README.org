@@ -6,4 +6,4 @@ Android App for Tourists and Local Residents
 [[https://github.com/lung-zijim/Lansing-Event-Explorer/blob/master/screenshorts/Screenshot_1500092270.png?raw=false]]
 *** Report a Event　　　　　　　　　　　　　　　　　Login/Register
 [[https://github.com/lung-zijim/Lansing-Event-Explorer/blob/master/screenshorts/Screenshot_1500092019.png?raw=true]]
-https://github.com/lung-zijim/Lansing-Event-Explorer/blob/master/screenshorts/Screenshot_1500092281.png?raw=true
+[[https://raw.githubusercontent.com/lung-zijim/Lansing-Event-Explorer/master/screenshorts/Screenshot_1500092281.png]]
