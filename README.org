@@ -2,12 +2,12 @@
 Android App for Tourists and Local Residents
 ** Screenshort
 - Login/Register
-  [[https://github.com/lung-zijim/Lansing-Event-Explorer/blob/master/screenshort/Screenshot_1500092281.png?raw=false]]
+  [[https://github.com/lung-zijim/Lansing-Event-Explorer/blob/master/screenshorts/Screenshot_1500092281.png?raw=true]]
 
 - Display Events
-  [[https://github.com/lung-zijim/Lansing-Event-Explorer/blob/master/screenshort/Screenshot_1500092253.png?raw=false]]
-  [[https://github.com/lung-zijim/Lansing-Event-Explorer/blob/master/screenshort/Screenshot_1500092270.png?raw=false]]
+  [[https://github.com/lung-zijim/Lansing-Event-Explorer/blob/master/screenshorts/Screenshot_1500092253.png?raw=true]]
+  [[https://github.com/lung-zijim/Lansing-Event-Explorer/blob/master/screenshorts/Screenshot_1500092270.png?raw=false]]
 
 - Report a Event
-  [[https://github.com/lung-zijim/Lansing-Event-Explorer/blob/master/screenshort/Screenshot_1500092019.png?raw=false]]
+  [[https://github.com/lung-zijim/Lansing-Event-Explorer/blob/master/screenshorts/Screenshot_1500092019.png?raw=true]]
 
